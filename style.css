@@ -4,6 +4,10 @@ body {
     margin-bottom: 3%;
 }
 
+h1 {
+    font-size: 2rem;
+}
+
 img {
     border-radius: 50%;
     -webkit-border-radius: 50%;
